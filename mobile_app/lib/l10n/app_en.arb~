@@ -1,0 +1,70 @@
+{
+  "newIssue": "Report new issue",
+  "reports": "Your reports",
+  "map": "Map",
+  "notifications": "Notifications",
+  "account": "Account",
+
+  "addPhoto": "Snap photo and auto locate",
+  "camera": "Camera",
+  "gallery": "Gallery",
+
+  "location": "Location",
+  "details": "Details",
+  "done": "Done",
+
+  "issueType": "Issue type",
+  "pothole": "Pothole",
+  "streetFilled": "Street filled",
+  "leakWaste": "Leak waste",
+  "other": "Other",
+  "description": "Description",
+
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+
+  "submitReport": "Submit report",
+
+  "complaints": "My complaints",
+  "all": "All",
+  "active": "Active",
+  "resolved": "Resolved",
+  "viewDetails": "View details",
+  "assigned": "Assigned",
+  "workStarted": "Work started",
+  "complaintsListEmpty": "No complaints found",
+
+  "profileManage": "View and manage your profile",
+  "mapView": "View issues on map",
+  "notify": "Check notifications",
+
+  "tapToAddPhoto": "Tap to add a photo of the issue",
+  "detailedDescription": "Detailed description",
+  "currentLocation": "Current location",
+
+  "submittedChip": "Submitted",
+  "reportSubmitted": "Report submitted",
+
+  "uploadProfilePhoto": "Upload profile photo",
+  "name": "Name",
+  "enterName": "Enter your name",
+  "email": "Email",
+  "enterEmail": "Enter your email",
+  "preferredLanguage": "Preferred language",
+  "save": "Save",
+
+  "tapToReportIssue": "Tap here to report a new civic issue",
+  "complaintsView": "View your complaints",
+
+
+  "animalControl": "Animal Control",
+  "electricity": "Electricity",
+  "garbage": "Garbage",
+  "roadBlock": "Road block",
+  "publicSpaces": "Public spaces",
+  "electrical": "Electrical",
+  "parkDamage": "Park Damage",
+  "fireDamage": "Fire Damage",
+
+}

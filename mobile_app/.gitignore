@@ -38,8 +38,38 @@ app.*.symbols
 
 # Obfuscation related
 app.*.map.json
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+pubspec.lock
+
+# Build outputs
+build/
+android/app/build/
+ios/Pods/
+ios/.generated/
+macos/Flutter/ephemeral/
+linux/flutter/
+windows/flutter/
+
+# Generated plugin registrants
+**/GeneratedPluginRegistrant.*
+**/generated_plugin_registrant.*
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# Misc
+*.log
+*.tmp
+
+# Coverage
+coverage/
+
 
 # Android Studio will place build artifacts here
-/android/app/debug
+/android/app/debugg
 /android/app/profile
 /android/app/release

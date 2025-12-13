@@ -1,0 +1,70 @@
+{
+  "newIssue": "नई शिकायत दर्ज करें",
+  "reports": "आपकी रिपोर्ट",
+  "map": "मानचित्र",
+  "notifications": "सूचनाएं",
+  "account": "खाता",
+
+  "addPhoto": "फोटो लें और स्थान प्राप्त करें",
+  "camera": "कैमरा",
+  "gallery": "गैलरी",
+
+  "location": "स्थान",
+  "details": "विवरण",
+  "done": "हो गया",
+
+  "issueType": "समस्या का प्रकार",
+  "pothole": "गड्ढा",
+  "streetFilled": "सड़क भरी हुई",
+  "leakWaste": "कचरा/लीकेज",
+  "other": "अन्य",
+  "description": "विवरण",
+
+  "low": "कम",
+  "medium": "मध्यम",
+  "high": "उच्च",
+
+  "submitReport": "रिपोर्ट सबमिट करें",
+
+  "complaints": "मेरी शिकायतें",
+  "all": "सभी",
+  "active": "सक्रिय",
+  "resolved": "सुलझा हुआ",
+  "viewDetails": "विवरण देखें",
+  "assigned": "असाइन किया गया",
+  "workStarted": "कार्य शुरू",
+  "complaintsListEmpty": "कोई शिकायत नहीं मिली",
+
+  "profileManage": "अपनी प्रोफ़ाइल देखें और प्रबंधित करें",
+  "mapView": "मानचित्र पर मुद्दे देखें",
+  "notify": "सूचनाएं जांचें",
+
+  "tapToAddPhoto": "मुद्दे की फोटो जोड़ने के लिए टैप करें",
+  "detailedDescription": "विस्तृत विवरण",
+  "currentLocation": "वर्तमान स्थान",
+
+  "submittedChip": "सबमिट किया गया",
+  "reportSubmitted": "रिपोर्ट सबमिट की गई",
+
+  "uploadProfilePhoto": "प्रोफ़ाइल फोटो अपलोड करें",
+  "name": "नाम",
+  "enterName": "अपना नाम दर्ज करें",
+  "email": "ईमेल",
+  "enterEmail": "अपना ईमेल दर्ज करें",
+  "preferredLanguage": "पसंदीदा भाषा",
+  "save": "सहेजें",
+
+  "tapToReportIssue": "नई नागरिक समस्या रिपोर्ट करने के लिए टैप करें",
+  "complaintsView": "अपनी शिकायतें देखें",
+
+
+  "animalControl": "पशु नियंत्रण",
+  "electricity": "बिजली",
+  "garbage": "कचरा",
+  "roadBlock": "सड़क अवरुद्ध",
+  "publicSpaces": "सार्वजनिक स्थान",
+  "electrical": "इलेक्ट्रिकल",
+  "parkDamage": "पार्क की क्षति",
+  "fireDamage": "आग से नुकसान"
+
+}

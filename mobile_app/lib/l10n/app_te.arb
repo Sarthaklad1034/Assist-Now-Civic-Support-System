@@ -1,0 +1,69 @@
+{
+  "newIssue": "క్రొత్త సమస్యను నివేదించండి",
+  "reports": "మీ నివేదికలు",
+  "map": "మ్యాప్",
+  "notifications": "అధ్యసూచనలు",
+  "account": "ఖాతా",
+
+  "addPhoto": "ఫోటో తీసి స్థానాన్ని పొందండి",
+  "camera": "కెమెరా",
+  "gallery": "గ్యాలరీ",
+
+  "location": "స్థానం",
+  "details": "వివరాలు",
+  "done": "పూర్తయింది",
+
+  "issueType": "సమస్య రకం",
+  "pothole": "గోతు",
+  "streetFilled": "వీధి నిండింది",
+  "leakWaste": "లీక్/వ్యర్థం",
+  "other": "ఇతర",
+  "description": "వివరణ",
+
+  "low": "తక్కువ",
+  "medium": "మధ్యస్థ",
+  "high": "అధిక",
+
+  "submitReport": "నివేదిక సమర్పించండి",
+
+  "complaints": "నా ఫిర్యాదులు",
+  "all": "అన్నీ",
+  "active": "క్రియాశీల",
+  "resolved": "పరిష్కరించబడింది",
+  "viewDetails": "వివరాలు చూడండి",
+  "assigned": "కేటాయించబడింది",
+  "workStarted": "పని ప్రారంభమైంది",
+  "complaintsListEmpty": "ఫిర్యాదులు లభించలేదు",
+
+  "profileManage": "మీ ప్రొఫైల్‌ను చూడండి మరియు నిర్వహించండి",
+  "mapView": "మ్యాప్‌లో సమస్యలు చూడండి",
+  "notify": "అధ్యసూచనలు తనిఖీ చేయండి",
+
+  "tapToAddPhoto": "సమస్య యొక్క ఫోటో జోడించడానికి ట్యాప్ చేయండి",
+  "detailedDescription": "వివరమైన వివరణ",
+  "currentLocation": "ప్రస్తుత స్థానం",
+
+  "submittedChip": "సమర్పించబడింది",
+  "reportSubmitted": "నివేదిక సమర్పించబడింది",
+
+  "uploadProfilePhoto": "ప్రొఫైల్ ఫోటోను అప్‌లోడ్ చేయండి",
+  "name": "పేరు",
+  "enterName": "మీ పేరు నమోదు చేయండి",
+  "email": "ఈమెయిల్",
+  "enterEmail": "మీ ఈమెయిల్ నమోదు చేయండి",
+  "preferredLanguage": "అభిరుచిగల భాష",
+  "save": "సేవ్ చేయండి",
+
+  "tapToReportIssue": "క్రొత్త సివిక్ సమస్యను నివేదించడానికి ట్యాప్ చేయండి",
+  "complaintsView": "మీ ఫిర్యాదులు చూడండి",
+
+  "animalControl": "జంతు నియంత్రణ",
+  "electricity": "కరెంట్",
+  "garbage": "చెత్త",
+  "roadBlock": "రోడ్డు బ్లాక్",
+  "publicSpaces": "ప్రజా ప్రదేశాలు",
+  "electrical": "ఎలక్ట్రికల్",
+  "parkDamage": "పార్క్ నష్టం",
+  "fireDamage": "అగ్ని నష్టం",
+  "otherIssue": "ఇతరవి"
+}

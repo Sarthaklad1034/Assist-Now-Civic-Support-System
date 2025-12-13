@@ -1,0 +1,69 @@
+{
+  "newIssue": "ಹೊಸ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ",
+  "reports": "ನಿಮ್ಮ ವರದಿಗಳು",
+  "map": "ನಕ್ಷೆ",
+  "notifications": "ಅಧಿಸೂಚನೆಗಳು",
+  "account": "ಖಾತೆ",
+
+  "addPhoto": "ಫೋಟೋ ತೆಗೆದು ಸ್ಥಳವನ್ನು ಪಡೆಯಿರಿ",
+  "camera": "ಕ್ಯಾಮೆರಾ",
+  "gallery": "ಗ್ಯಾಲರಿ",
+
+  "location": "ಸ್ಥಳ",
+  "details": "ವಿವರಗಳು",
+  "done": "ಮುಗಿದಿದೆ",
+
+  "issueType": "ಸಮಸ್ಯೆಯ ಪ್ರಕಾರ",
+  "pothole": "ಗುಂಡಿ",
+  "streetFilled": "ರಸ್ತೆ ತುಂಬಿದೆ",
+  "leakWaste": "ಲೀಕ್/ಕಸದ",
+  "other": "ಇತರೆ",
+  "description": "ವಿವರಣೆ",
+
+  "low": "ಕಡಿಮೆ",
+  "medium": "ಮಧ್ಯಮ",
+  "high": "ಹೆಚ್ಚು",
+
+  "submitReport": "ವರದಿ ಸಲ್ಲಿಸಿ",
+
+  "complaints": "ನನ್ನ ದೂರುಗಳು",
+  "all": "ಎಲ್ಲಾ",
+  "active": "ಸಕ್ರಿಯ",
+  "resolved": "ಪರಿಹರಿಸಲಾಗಿದೆ",
+  "viewDetails": "ವಿವರಗಳನ್ನು ನೋಡಿ",
+  "assigned": "ಹೊರಿಸಲಾಯಿತು",
+  "workStarted": "ಕೆಲಸ ಆರಂಭವಾಗಿದೆ",
+  "complaintsListEmpty": "ಯಾವುದೇ ದೂರುಗಳು ಕಂಡುಬಂದಿಲ್ಲ",
+
+  "profileManage": "ನಿಮ್ಮ ಪ್ರೊಫೈಲ್ ವೀಕ್ಷಿಸಿ ಮತ್ತು ನಿರ್ವಹಿಸಿ",
+  "mapView": "ನಕ್ಷೆಯಲ್ಲಿ ಸಮಸ್ಯೆಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+  "notify": "ಅಧಿಸೂಚನೆಗಳನ್ನು ಪರಿಶೀಲಿಸಿ",
+
+  "tapToAddPhoto": "ಸಮಸ್ಯೆಯ ಫೋಟೋ ಸೇರಿಸಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
+  "detailedDescription": "ವಿವರವಾದ ವಿವರಣೆ",
+  "currentLocation": "ಪ್ರಸ್ತುತ ಸ್ಥಳ",
+
+  "submittedChip": "ಸಲ್ಲಿಸಲಾಗಿದೆ",
+  "reportSubmitted": "ವರದಿ ಸಲ್ಲಿಸಲಾಗಿದೆ",
+
+  "uploadProfilePhoto": "ಪ್ರೊಫೈಲ್ ಫೋಟೋ ಅಪ್‌ಲೋಡ್ ಮಾಡಿ",
+  "name": "ಹೆಸರು",
+  "enterName": "ನಿಮ್ಮ ಹೆಸರನ್ನು ನಮೂದಿಸಿ",
+  "email": "ಇಮೇಲ್",
+  "enterEmail": "ನಿಮ್ಮ ಇಮೇಲ್ ನಮೂದಿಸಿ",
+  "preferredLanguage": "ಆಸಕ್ತ ಭಾಷೆ",
+  "save": "ಉಳಿಸಿ",
+
+  "tapToReportIssue": "ಹೊಸ ನಾಗರಿಕ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಲು ಟ್ಯಾಪ್ ಮಾಡಿ",
+  "complaintsView": "ನಿಮ್ಮ ದೂರುಗಳನ್ನು ವೀಕ್ಷಿಸಿ",
+
+  "animalControl": "ಪ್ರಾಣಿ ನಿಯಂತ್ರಣ",
+  "electricity": "ವಿದ್ಯುತ್",
+  "garbage": "ಕಸ",
+  "roadBlock": "ರಸ್ತೆ ತಡೆ",
+  "publicSpaces": "ಸಾರ್ವಜನಿಕ ಸ್ಥಳಗಳು",
+  "electrical": "ಎಲೆಕ್ಟ್ರಿಕಲ್",
+  "parkDamage": "ಪಾರ್ಕ್ ಹಾನಿ",
+  "fireDamage": "ಅಗ್ನಿ ಹಾನಿ",
+  "otherIssue": "ಇತರೆ"
+}

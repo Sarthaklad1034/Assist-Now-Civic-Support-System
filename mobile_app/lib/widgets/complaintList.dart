@@ -1,0 +1,32 @@
+import 'package:flutter/material.dart';
+import '../models/issueModel.dart';
+import '../widgets/complaintCard.dart';
+
+class complaintList extends StatelessWidget {
+  final List<IssueModel> issues;
+  final int maxItems; // optional: limit number of items shown
+
+  const complaintList({super.key, required this.issues, this.maxItems = 0});
+
+  @override
+  Widget build(BuildContext context) {
+    if (issues.isEmpty) {
+      return Center(
+        child: Text("No complaints yet"),
+      );
+    }
+
+    final displayIssues =
+    maxItems > 0 ? issues.take(maxItems).toList() : issues;
+
+    return ListView.builder(
+      shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
+      itemCount: displayIssues.length,
+      itemBuilder: (context, index) {
+        final issue = displayIssues[index];
+        return complaintCard(issue: issue);
+      },
+    );
+  }
+}

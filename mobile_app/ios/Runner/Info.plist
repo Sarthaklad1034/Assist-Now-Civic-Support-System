@@ -12,6 +12,20 @@
 	<string>$(PRODUCT_BUNDLE_IDENTIFIER)</string>
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
+	<key>NSLocationWhenInUseUsageDescription</key>
+    <string>We need your location to report complaints.</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>We need microphone access for voice input.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>We need camera access to upload complaint photos.</string>
+    <key>NSPhotoLibraryUsageDescription</key>
+    <string>We need photo library access to upload complaint photos.</string>
+    <key>NSAppTransportSecurity</key>
+    <dict>
+      <key>NSAllowsArbitraryLoads</key>
+      <true/>
+    </dict>
+
 	<key>CFBundleName</key>
 	<string>mobile_app</string>
 	<key>CFBundlePackageType</key>

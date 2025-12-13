@@ -1,0 +1,70 @@
+{
+  "newIssue": "નવી સમસ્યા નોંધો",
+  "reports": "તમારી રિપોર્ટ્સ",
+  "map": "નકશો",
+  "notifications": "સૂચનાઓ",
+  "account": "ખાતું",
+
+  "addPhoto": "ફોટો લો અને સ્થાન મેળવો",
+  "camera": "કેમેરા",
+  "gallery": "ગેલેરી",
+
+  "location": "સ્થાન",
+  "details": "વિગતો",
+  "done": "થઈ ગયું",
+
+  "issueType": "સમસ્યાનો પ્રકાર",
+  "pothole": "ખાડો",
+  "streetFilled": "રસ્તો ભરાયો",
+  "leakWaste": "લીક/કચરો",
+  "other": "અન્ય",
+  "description": "વર્ણન",
+
+  "low": "નીચું",
+  "medium": "મધ્યમ",
+  "high": "ઉંચું",
+
+  "submitReport": "રિપોર્ટ સબમિટ કરો",
+
+  "complaints": "મારી ફરિયાદો",
+  "all": "બધું",
+  "active": "સક્રિય",
+  "resolved": "નિષ્ફળ",
+  "viewDetails": "વિગતો જુઓ",
+  "assigned": "સોંપાયેલ",
+  "workStarted": "કામ શરૂ",
+  "complaintsListEmpty": "કોઈ ફરિયાદ મળી નથી",
+
+  "profileManage": "તમારી પ્રોફાઇલ જુઓ અને મેનેજ કરો",
+  "mapView": "નકશા પર સમસ્યાઓ જુઓ",
+  "notify": "સૂચનાઓ તપાસો",
+
+  "tapToAddPhoto": "સમસ્યાનો ફોટો ઉમેરવા માટે ટેપ કરો",
+  "detailedDescription": "વિગતવાર વર્ણન",
+  "currentLocation": "વર્તમાન સ્થાન",
+
+  "submittedChip": "સબમિટ થયું",
+  "reportSubmitted": "રિપોર્ટ સબમિટ થયો",
+
+  "uploadProfilePhoto": "પ્રોફાઇલ ફોટો અપલોડ કરો",
+  "name": "નામ",
+  "enterName": "તમારું નામ દાખલ કરો",
+  "email": "ઈમેલ",
+  "enterEmail": "તમારો ઈમેલ દાખલ કરો",
+  "preferredLanguage": "પસંદીદા ભાષા",
+  "save": "સેવ કરો",
+
+  "tapToReportIssue": "નવી નાગરિક સમસ્યા નોંધવા માટે ટેપ કરો",
+  "complaintsView": "તમારી ફરિયાદો જુઓ",
+
+  "animalControl": "પશુ નિયંત્રણ",
+  "electricity": "વીજળી",
+  "garbage": "કચરો",
+  "roadBlock": "રસ્તો બંધ",
+  "publicSpaces": "જાહેર સ્થળો",
+  "electrical": "ઈલેક્ટ્રિકલ",
+  "parkDamage": "બગીચાનું નુકસાન",
+  "fireDamage": "આગથી નુકસાન",
+  "otherIssue": "અન્ય"
+
+}

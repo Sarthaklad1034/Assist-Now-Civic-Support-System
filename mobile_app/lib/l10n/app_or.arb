@@ -1,0 +1,70 @@
+{
+  "newIssue": "ନୂତନ ସମସ୍ୟା ରିପୋର୍ଟ କରନ୍ତୁ",
+  "reports": "ଆପଣଙ୍କର ରିପୋର୍ଟ",
+  "map": "ମାନଚିତ୍ର",
+  "notifications": "ବିଜ୍ଞପ୍ତି",
+  "account": "ଖାତା",
+
+  "addPhoto": "ଫଟୋ ନିଅନ୍ତୁ ଏବଂ ଲୋକେସନ୍ ପାଆନ୍ତୁ",
+  "camera": "କ୍ୟାମେରା",
+  "gallery": "ଗ୍ୟାଲେରୀ",
+
+  "location": "ଅବସ୍ଥାନ",
+  "details": "ବିବରଣୀ",
+  "done": "ସମାପ୍ତ",
+
+  "issueType": "ସମସ୍ୟାର ପ୍ରକାର",
+  "pothole": "ଗଡ଼ଢା",
+  "streetFilled": "ରାସ୍ତା ପୁରା",
+  "leakWaste": "ଲିକ୍/ଆବର୍ଜନା",
+  "other": "ଅନ୍ୟ",
+  "description": "ବର୍ଣନା",
+
+  "low": "କମ୍",
+  "medium": "ମଝିଆ",
+  "high": "ଉଚ୍ଚ",
+
+  "submitReport": "ରିପୋର୍ଟ ଦାଖଲ କରନ୍ତୁ",
+
+  "complaints": "ମୋର ଅଭିଯୋଗ",
+  "all": "ସମସ୍ତ",
+  "active": "ସକ୍ରିୟ",
+  "resolved": "ସମାଧାନିତ",
+  "viewDetails": "ବିବରଣୀ ଦେଖନ୍ତୁ",
+  "assigned": "ନିର୍ଦ୍ଧାରିତ",
+  "workStarted": "କାମ ଆରମ୍ଭ",
+  "complaintsListEmpty": "କୌଣସି ଅଭିଯୋଗ ମିଳିଲା ନାହିଁ",
+
+  "profileManage": "ଆପଣଙ୍କ ପ୍ରୋଫାଇଲ୍ ଦେଖନ୍ତୁ ଏବଂ ପରିଚାଳନା କରନ୍ତୁ",
+  "mapView": "ମାନଚିତ୍ରରେ ସମସ୍ୟା ଦେଖନ୍ତୁ",
+  "notify": "ବିଜ୍ଞପ୍ତିଗୁଡ଼ିକ ଯାଞ୍ଚ କରନ୍ତୁ",
+
+  "tapToAddPhoto": "ସମସ୍ୟାର ଫଟୋ ଯୋଡ଼ିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ",
+  "detailedDescription": "ବିସ୍ତୃତ ବର୍ଣନା",
+  "currentLocation": "ବର୍ତ୍ତମାନ ଅବସ୍ଥାନ",
+
+  "submittedChip": "ଦାଖଲ ହେଲା",
+  "reportSubmitted": "ରିପୋର୍ଟ ଦାଖଲ ହେଲା",
+
+  "uploadProfilePhoto": "ପ୍ରୋଫାଇଲ୍ ଫଟୋ ଅପଲୋଡ୍ କରନ୍ତୁ",
+  "name": "ନାମ",
+  "enterName": "ଆପଣଙ୍କ ନାମ ଦିଅନ୍ତୁ",
+  "email": "ଇମେଲ୍",
+  "enterEmail": "ଆପଣଙ୍କ ଇମେଲ୍ ଲେଖନ୍ତୁ",
+  "preferredLanguage": "ପ୍ରିୟ ଭାଷା",
+  "save": "ସେଭ୍ କରନ୍ତୁ",
+
+  "tapToReportIssue": "ନୂତନ ସିଭିକ୍ ସମସ୍ୟା ରିପୋର୍ଟ କରିବା ପାଇଁ ଟାପ୍ କରନ୍ତୁ",
+  "complaintsView": "ଆପଣଙ୍କ ଅଭିଯୋଗ ଦେଖନ୍ତୁ",
+
+  "animalControl": "ପଶୁ ନିୟନ୍ତ୍ରଣ",
+  "electricity": "ବିଦ୍ୟୁତ",
+  "garbage": "ଆବର୍ଜନା",
+  "roadBlock": "ରାସ୍ତା ବନ୍ଦ",
+  "publicSpaces": "ସାର୍ବଜନିକ ସ୍ଥାନ",
+  "electrical": "ଇଲେକ୍ଟ୍ରିକାଲ୍",
+  "parkDamage": "ପାର୍କ କ୍ଷତି",
+  "fireDamage": "ଅଗ୍ନି କ୍ଷତି",
+  "otherIssue": "ଅନ୍ୟାନ୍ୟ"
+
+}

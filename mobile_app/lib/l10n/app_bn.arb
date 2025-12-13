@@ -1,0 +1,70 @@
+{
+  "newIssue": "নতুন সমস্যা রিপোর্ট করুন",
+  "reports": "আপনার রিপোর্ট",
+  "map": "মানচিত্র",
+  "notifications": "নোটিফিকেশন",
+  "account": "অ্যাকাউন্ট",
+
+  "addPhoto": "ছবি তুলুন এবং অবস্থান পান",
+  "camera": "ক্যামেরা",
+  "gallery": "গ্যালারি",
+
+  "location": "অবস্থান",
+  "details": "বিস্তারিত",
+  "done": "সম্পন্ন",
+
+  "issueType": "সমস্যার ধরন",
+  "pothole": "গর্ত",
+  "streetFilled": "রাস্তা ভরা",
+  "leakWaste": "লিক/আবর্জনা",
+  "other": "অন্যান্য",
+  "description": "বিবরণ",
+
+  "low": "কম",
+  "medium": "মাঝারি",
+  "high": "উচ্চ",
+
+  "submitReport": "রিপোর্ট জমা দিন",
+
+  "complaints": "আমার অভিযোগ",
+  "all": "সব",
+  "active": "সক্রিয়",
+  "resolved": "সমাধান হয়েছে",
+  "viewDetails": "বিস্তারিত দেখুন",
+  "assigned": "বরাদ্দ",
+  "workStarted": "কাজ শুরু",
+  "complaintsListEmpty": "কোন অভিযোগ পাওয়া যায়নি",
+
+  "profileManage": "আপনার প্রোফাইল দেখুন এবং পরিচালনা করুন",
+  "mapView": "মানচিত্রে সমস্যা দেখুন",
+  "notify": "নোটিফিকেশন পরীক্ষা করুন",
+
+  "tapToAddPhoto": "সমস্যার ছবি যোগ করতে ট্যাপ করুন",
+  "detailedDescription": "বিস্তারিত বিবরণ",
+  "currentLocation": "বর্তমান অবস্থান",
+
+  "submittedChip": "জমা হয়েছে",
+  "reportSubmitted": "রিপোর্ট জমা হয়েছে",
+
+  "uploadProfilePhoto": "প্রোফাইল ছবি আপলোড করুন",
+  "name": "নাম",
+  "enterName": "আপনার নাম লিখুন",
+  "email": "ইমেল",
+  "enterEmail": "আপনার ইমেল লিখুন",
+  "preferredLanguage": "পছন্দের ভাষা",
+  "save": "সংরক্ষণ করুন",
+
+  "tapToReportIssue": "নতুন নাগরিক সমস্যা রিপোর্ট করতে ট্যাপ করুন",
+  "complaintsView": "আপনার অভিযোগ দেখুন",
+
+  "animalControl": "পশু নিয়ন্ত্রণ",
+  "electricity": "বিদ্যুৎ",
+  "garbage": "আবর্জনা",
+  "roadBlock": "রাস্তা বন্ধ",
+  "publicSpaces": "সার্বজনিক স্থান",
+  "electrical": "ইলেকট্রিক্যাল",
+  "parkDamage": "পার্ক ক্ষতি",
+  "fireDamage": "আগুনে ক্ষতি",
+  "otherIssue": "অন্যান্য"
+
+}
